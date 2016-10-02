@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hitung Luas Persegi Panjang</string>
+    <string name="panjang">Panjang : </string>
+    <string name="lebar">Lebar : </string>
+    <string name="hint_panjang">Masukkan Panjang</string>
+    <string name="hint_lebar">Masukkan Lebar</string>
+    <string name="luas">Luas Adalah : </string>
+    <string name="hitung">Hitung Luas</string>
+    <string name="rumus">Rumus Luas : Panjang x Lebar</string>
+</resources>
